@@ -14,4 +14,6 @@ List of tools and techniques for working with relational databases inspired by o
 - [utPLSQL](http://utplsql.sourceforge.net/) - Unit testing framework for PL/SQL
 
 ### SQL Server
+- [SQL Server Express Edition] (http://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx) - Free SQL Server Database to develop and deploy applications
 - [SQL Server Data Tools](http://msdn.microsoft.com/en-us/data/tools.aspx) - Integrated environment for developers to design and build database and other business intelligence solutions for MS SQL Server stack.
+- [tSQLt](http://tsqlt.org/) - Unit testing framework for SQL Server
