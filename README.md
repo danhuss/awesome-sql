@@ -22,3 +22,7 @@ List of tools and techniques for working with relational databases inspired by o
 
 - [SQL Format](http://www.dpriver.com/pp/sqlformat.htm) - Instant SQL Formatter
 - [Poor SQL](http://poorsql.com/) - Instant Free and Open-Source T-SQL Formatting
+
+## Tool
+
+- [PixQL](https://github.com/Phildo/pixQL) - Command-line image processing tool in SQL by @Phildo
