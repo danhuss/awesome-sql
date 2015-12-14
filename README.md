@@ -27,3 +27,4 @@ List of tools and techniques for working with relational databases inspired by o
 
 - [PixQL](https://github.com/Phildo/pixQL) - Command-line image processing tool in SQL by @Phildo
 - [SQL Fiddle](http://sqlfiddle.com/) - Easly test and share database problems and their solutions. Can use different backend DBMS's (MySQL, PostgreSQL, MS SQL Server, Oracle, and SQLite)
+- [SqlPad](http://rickbergfalk.github.io/sqlpad/) - A web app for running SQL queries and visualizing the results
