@@ -5,11 +5,14 @@ List of tools and techniques for working with relational databases inspired by o
 
 - [Oracle](#oracle) - Software and packages specifically for Oracle and PL/SQL.
 - [SQL Server](#sqlserver) - Software and packages specifically for SQL Server and T-SQL.
-- [Formatters](#formatter) - Tools and sites that will format your ugly SQL code.
-- [Tools](#tools) - Other cool tools and sites.
+- [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md) - There is already a whole awesome list just for MySQL.
+- Cross Platform Stuff
+  - [Formatters](#formatter) - Tools and sites that will format your ugly SQL code.
+  - [Tools](#tools) - Other cool tools and sites.
 
 ### <a name="oracle"></a>Oracle
 - [SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index.html) - Oracle's Free IDE for PL/SQL development and administration of Oracle databases
+- [SQL Tools for Oracle](http://sourceforge.net/projects/sqlt/) - Lightweight frontend for Oracle DB development.
 - [Oracle Database 11g Express Edition](http://www.oracle.com/technetwork/database/database-technologies/express-edition/overview/index.html) - Free entry level database to develop and deploy applications
 - [Alexandria PL/SQL Utility Library](https://github.com/mortenbra/alexandria-plsql-utils) - Collection of utility packages for PL/SQL
 - [PLSQL-JSON](https://github.com/doberkofler/PLSQL-JSON) - PL/SQL library to encode/decode JSON
