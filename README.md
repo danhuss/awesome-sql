@@ -26,7 +26,7 @@ List of tools and techniques for working with relational databases inspired by o
 ## <a name="formatter"></a>Formatters
 
 - [SQL Format](http://www.dpriver.com/pp/sqlformat.htm) - Instant SQL Formatter
-- ~~[Poor SQL](http://poorsql.com/)~~ - Instant Free and Open-Source T-SQL Formatting (This site's down, try here for the plugins and whatnot: https://github.com/TaoK/PoorMansTSqlFormatter )
+- [Poor SQL](http://poorsql.com/) - Instant Free and Open-Source T-SQL Formatting (look here for the plugins and whatnot: https://github.com/TaoK/PoorMansTSqlFormatter )
 - [T-SQL Tidy](http://www.tsqltidy.com/Default.aspx) - Online T-SQL formatting with Webservice and Plugins for SSMS.
 
 ## <a name="tools"></a>Tools
