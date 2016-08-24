@@ -36,3 +36,5 @@ List of tools and techniques for working with relational databases inspired by o
 - [SqlPad](http://rickbergfalk.github.io/sqlpad/) - A web app for running SQL queries and visualizing the results
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases
 - [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
+- [Flyway](https://flywaydb.org/) - Database migration tool
+- [Liquibase](http://www.liquibase.org/) - Source Control for your database
