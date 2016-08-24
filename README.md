@@ -16,7 +16,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [Oracle Database 11g Express Edition](http://www.oracle.com/technetwork/database/database-technologies/express-edition/overview/index.html) - Free entry level database to develop and deploy applications
 - [Alexandria PL/SQL Utility Library](https://github.com/mortenbra/alexandria-plsql-utils) - Collection of utility packages for PL/SQL
 - [PLSQL-JSON](https://github.com/doberkofler/PLSQL-JSON) - PL/SQL library to encode/decode JSON
-- [utPLSQL](http://utplsql.sourceforge.net/) - Unit testing framework for PL/SQL
+- [utPLSQL](https://utplsql.github.io/) - Unit testing framework for PL/SQL
 
 ### <a name="sqlserver"></a>SQL Server
 - [SQL Server Express Edition] (http://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx) - Free SQL Server Database to develop and deploy applications
