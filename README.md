@@ -12,11 +12,12 @@ List of tools and techniques for working with relational databases inspired by o
 
 ### <a name="oracle"></a>Oracle
 - [SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) - Oracle's Free IDE for PL/SQL development and administration of Oracle databases
+- [SQLcl](https://www.oracle.com/database/technologies/appdev/sqlcl.html) - Free command line interface for Oracle Database.
 - [SQL Tools for Oracle](http://sourceforge.net/projects/sqlt/) - Lightweight frontend for Oracle DB development.
-- [Oracle Database 11g Express Edition](http://www.oracle.com/technetwork/database/database-technologies/express-edition/overview/index.html) - Free entry level database to develop and deploy applications
+- [Oracle Database Express Edition](https://www.oracle.com/database/technologies/appdev/xe.html) - Free entry level database to develop and deploy applications
 - [Alexandria PL/SQL Utility Library](https://github.com/mortenbra/alexandria-plsql-utils) - Collection of utility packages for PL/SQL
 - [PLSQL-JSON](https://github.com/doberkofler/PLSQL-JSON) - PL/SQL library to encode/decode JSON
-- [utPLSQL](https://utplsql.github.io/) - Unit testing framework for PL/SQL
+- [utPLSQL](http://utplsql.org/) - Unit testing framework for PL/SQL
 
 ### <a name="sqlserver"></a>SQL Server
 - [SQL Server Express Edition](http://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx) - Free SQL Server Database to develop and deploy applications
