@@ -22,6 +22,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [SQL Server Express Edition](http://www.microsoft.com/en-us/server-cloud/products/sql-server-editions/sql-server-express.aspx) - Free SQL Server Database to develop and deploy applications
 - [SQL Server Data Tools](http://msdn.microsoft.com/en-us/data/tools.aspx) - Integrated environment for developers to design and build database and other business intelligence solutions for MS SQL Server stack.
 - [tSQLt](http://tsqlt.org/) - Unit testing framework for SQL Server
+- [MSSqlCLI](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting
 
 ## <a name="formatter"></a>Formatters
 
@@ -39,8 +40,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [Flyway](https://flywaydb.org/) - Database migration tool
 - [Liquibase](http://www.liquibase.org/) - Source Control for your database
 - [PgCLI](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
-- [MSSqlCLI](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting
-- [LINQPad ](https://www.linqpad.net/) -LINQPad is not just for LINQ queries, but any C#/F#/VB expression, statement block or program.
+- [LINQPad](https://www.linqpad.net/) - LINQPad is not just for LINQ queries, but any C#/F#/VB expression, statement block or program.
 - [SchemaSpy](https://github.com/schemaspy/schemaspy) - we will do the best to simplify documentation process of your database
 
 ## <a name="resources"></a>Resources
