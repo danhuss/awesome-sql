@@ -44,6 +44,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [PgCLI](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [LINQPad](https://www.linqpad.net/) - LINQPad is not just for LINQ queries, but any C#/F#/VB expression, statement block or program.
 - [SchemaSpy](https://github.com/schemaspy/schemaspy) - we will do the best to simplify documentation process of your database
+- [MissionKontrol](https://github.com/Mission-Kontrol/MissionKontrol) - Self-hosted admin panel to manage one or more MySQL/PostGRES databases.
 
 ## <a name="resources"></a>Resources
 
