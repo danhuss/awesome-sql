@@ -1,0 +1,4 @@
+EverSQL is an AI-Powered SQL optimization platform. It uses slow query logs and metadata to monitor, analyze, and optimize database performance.
+The platform consists of to main features:
+  The query optimizer, where you simply paste your query + metadata and get a rewriten, improved query.
+  The (free) performance sensor, which analyzes slow query logs over time to give actionable insight on the DB performance.
