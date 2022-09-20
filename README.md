@@ -49,3 +49,4 @@ List of tools and techniques for working with relational databases inspired by o
 ## <a name="resources"></a>Resources
 
 - [Curated SQL Learning Resources on Hackr.io](https://hackr.io/tutorials/learn-sql) - Programming Community Curated Resources for learning SQL
+- [Basic and advanced concepts of SQL with examples on Scaler](https://www.scaler.com/topics/sql/) - A curated interactive space for aspiring programmers to learn and master their SQL skills.
