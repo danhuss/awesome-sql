@@ -6,6 +6,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [Oracle](#oracle) - Software and packages specifically for Oracle and PL/SQL.
 - [SQL Server](#sqlserver) - Software and packages specifically for SQL Server and T-SQL.
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql) - There is already a whole awesome list just for MySQL.
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) - There is alread a whole awesome list just for PostgreSQL.
 - Cross Platform Stuff
   - [Formatters](#formatter) - Tools and sites that will format your ugly SQL code.
   - [Tools](#tools) - Other cool tools and sites.
