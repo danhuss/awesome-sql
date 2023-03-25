@@ -47,7 +47,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [SchemaSpy](https://github.com/schemaspy/schemaspy) - we will do the best to simplify documentation process of your database
 - [MissionKontrol](https://github.com/Mission-Kontrol/MissionKontrol) - Self-hosted admin panel to manage one or more MySQL/PostGRES databases.
 - [DBeaver](https://dbeaver.io) - Free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases. Supports all popular databases.
-- [EverSQL](https://www.eversql.com/) - SQL query optimization and database observability, powered by AI. EverSQL is the fastest way to optimize your database and SQL queries automatically.
+- [EverSQL](https://www.eversql.com/) - SQL query optimization and database observability, powered by AI. 
 
 ## <a name="resources"></a>Resources
 
