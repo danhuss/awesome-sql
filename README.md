@@ -51,6 +51,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [MissionKontrol](https://github.com/Mission-Kontrol/MissionKontrol) - Self-hosted admin panel to manage one or more MySQL/PostGRES databases.
 - [DBeaver](https://dbeaver.io) - Free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases. Supports all popular databases.
 - [EverSQL](https://www.eversql.com/) - SQL query optimization and database observability, powered by AI.
+- [Vedika API](https://vedika.io) - B2B Vedic astrology API platform powered by PostgreSQL, providing 108+ endpoints for data-heavy applications. Features AI chatbot, multi-language support (22 languages), and swarming intelligence. Open-source Python and JavaScript SDKs available.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - [ThalamusDB](https://github.com/itrummer/thalamusdb) - SQL with AI operators on text, images, and sound files.
 
