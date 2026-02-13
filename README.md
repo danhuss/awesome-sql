@@ -36,6 +36,7 @@ List of tools and techniques for working with relational databases inspired by o
 
 - [sqruff](https://github.com/quarylabs/sqruff) - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
 - [sqlaxe](https://github.com/djberube/sqlaxe) - CLI tool for searching, filtering, formatting, and splitting SQL files. Supports 40+ dialects of SQL.
+- [sql-splitter](https://github.com/HelgeSverre/sql-splitter) - CLI for splitting, merging, converting, and analyzing SQL dump files across MySQL, PostgreSQL, SQLite, and MSSQL.
 - [SQLPage](https://github.com/lovasoa/SQLpage) - Open-source SQL-only website builder
 - [PixQL](https://github.com/Phildo/pixQL) - Command-line image processing tool in SQL by @Phildo
 - [SQL Fiddle](http://sqlfiddle.com/) - Easly test and share database problems and their solutions. Can use different backend DBMS's (MySQL, PostgreSQL, MS SQL Server, Oracle, and SQLite)
