@@ -10,6 +10,7 @@ List of tools and techniques for working with relational databases inspired by o
 - Cross Platform Stuff
   - [Formatters](#formatter) - Tools and sites that will format your ugly SQL code.
   - [Tools](#tools) - Other cool tools and sites.
+- [querybear.com](https://querybear.com) - Ask your data anything – with persistent memory, schema learning, and more.
 
 ### <a name="oracle"></a>Oracle
 - [SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) - Oracle's Free IDE for PL/SQL development and administration of Oracle databases
