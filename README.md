@@ -41,6 +41,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [Flyway](https://flywaydb.org/) - Database migration tool
 - [Liquibase](http://www.liquibase.org/) - Source Control for your database
 - [PgCLI](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+- [QueryGlow](https://queryglow.com/) - Self-hosted, web-based database GUI with AI SQL generation, EXPLAIN visualizer, and schema-aware autocomplete. Supports PostgreSQL, MySQL, SQLite, and more.
 - [LINQPad](https://www.linqpad.net/) - LINQPad is not just for LINQ queries, but any C#/F#/VB expression, statement block or program.
 - [SchemaSpy](https://github.com/schemaspy/schemaspy) - we will do the best to simplify documentation process of your database
 
