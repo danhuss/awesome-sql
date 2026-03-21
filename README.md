@@ -53,6 +53,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [EverSQL](https://www.eversql.com/) - SQL query optimization and database observability, powered by AI.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - [ThalamusDB](https://github.com/itrummer/thalamusdb) - SQL with AI operators on text, images, and sound files.
+- [AI2SQL](https://ai2sql.io) - AI-powered SQL query generator. Convert natural language to SQL for MySQL, PostgreSQL, MongoDB, BigQuery, Snowflake, and more. Supports query explanation, optimization, and error fixing.
 
 ## <a name="resources"></a>Resources
 
@@ -60,3 +61,4 @@ List of tools and techniques for working with relational databases inspired by o
 - [Basic and advanced concepts of SQL with examples on Scaler](https://www.scaler.com/topics/sql/) - A curated interactive space for aspiring programmers to learn and master their SQL skills.
 - [Mostly Asked SQL Interview Questions and Answers for Freshers](https://boldcoder.blogspot.com/2024/08/fresher-sql-interview-questions.html) - Online coding tutorials and Interview questions.
 - [SQL tips and tricks](https://github.com/ben-nour/SQL-tips-and-tricks) - SQL tips that cover everything from readability to common pitfalls.
+- [AI2SQL Blog](https://builder.ai2sql.io/blog) - SQL tutorials, guides, and tips covering MySQL, PostgreSQL, BigQuery, and more.
