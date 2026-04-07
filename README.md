@@ -53,6 +53,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [EverSQL](https://www.eversql.com/) - SQL query optimization and database observability, powered by AI.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - [ThalamusDB](https://github.com/itrummer/thalamusdb) - SQL with AI operators on text, images, and sound files.
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
 
 ## <a name="resources"></a>Resources
 
