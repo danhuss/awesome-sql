@@ -54,6 +54,12 @@ List of tools and techniques for working with relational databases inspired by o
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - [ThalamusDB](https://github.com/itrummer/thalamusdb) - SQL with AI operators on text, images, and sound files.
 
+## <a name="sample-databases"></a>Sample Databases
+
+- [Mindweave SME Business Data](https://github.com/MindweaveTech/sme-sim-sample) - 42-table synthetic business dataset with double-entry accounting, tax compliance (AU/US/UK), and temporal realism. CSV, SQL, Parquet, SQLite.
+- [Chinook Database](https://github.com/lerocha/chinook-database) - Sample database for SQL learning, representing a digital media store.
+- [Northwind Database](https://github.com/jpwhite3/northwind-SQLite3) - Classic Microsoft sample database ported to SQLite.
+
 ## <a name="resources"></a>Resources
 
 - [Curated SQL Learning Resources on Hackr.io](https://hackr.io/tutorials/learn-sql) - Programming Community Curated Resources for learning SQL
