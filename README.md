@@ -56,6 +56,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - [ThalamusDB](https://github.com/itrummer/thalamusdb) - SQL with AI operators on text, images, and sound files.
 - [SlowQL](https://github.com/makroumi/slowql) - SQL static analyzer with extensive rules for security, performance, and quality. Zero dependencies, completely offline.
+- [Actual Schema Gradle Plugin](https://github.com/YRashid/actual-schema-gradle-plugin) - Gradle plugin that generates a PostgreSQL schema.sql file from Liquibase migrations using Testcontainers.
 
 ## <a name="resources"></a>Resources
 
