@@ -34,7 +34,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [CodeNeat SQL Formatter](https://codeneat.dev/sql-formatter) - Privacy-first online SQL formatter supporting 7 dialects.
 
 ## <a name="tools"></a>Tools
-
+- [StackRender](https://github.com/stackrender/stackrender) - Free and open-source database schema design and SQL migration generator supporting PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, and Oracle.
 - [sqruff](https://github.com/quarylabs/sqruff) - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
 - [sqlaxe](https://github.com/djberube/sqlaxe) - CLI tool for searching, filtering, formatting, and splitting SQL files. Supports 40+ dialects of SQL.
 - [sql-splitter](https://github.com/HelgeSverre/sql-splitter) - CLI for splitting, merging, converting, and analyzing SQL dump files across MySQL, PostgreSQL, SQLite, and MSSQL.
