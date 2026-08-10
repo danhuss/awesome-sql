@@ -56,6 +56,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - [ThalamusDB](https://github.com/itrummer/thalamusdb) - SQL with AI operators on text, images, and sound files.
 - [SlowQL](https://github.com/makroumi/slowql) - SQL static analyzer with extensive rules for security, performance, and quality. Zero dependencies, completely offline.
+- [provensql](https://github.com/nac7/provensql) - Decides whether two SQL queries are equivalent — EQUIVALENT (proven), DIFFERENT (with a runnable counterexample row), SCHEMA_CHANGE, or UNKNOWN. Sound by construction: never a false EQUIVALENT. Catches rewrites that diverge under IEEE-754 rounding and runtime-error semantics.
 
 ## <a name="resources"></a>Resources
 
