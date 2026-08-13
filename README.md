@@ -46,7 +46,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
 - [Flyway](https://flywaydb.org/) - Database migration tool
 - [Liquibase](http://www.liquibase.org/) - Source Control for your database
-- [Bytebase](https://www.bytebase.com/) - Database DevOps with a GitOps migration workflow, SQL review, access control, and a full API
+- [Bytebase](https://www.bytebase.com/) - Database governance platform: UI-driven or GitOps workflow, SQL review, access control, and a full API
 - [Schema Guard RDBM](https://www.dbinvent.com/rdbm/) - Postgres database migration tool, plain-SQL, and declarative definition supported
 - [PgCLI](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [LINQPad](https://www.linqpad.net/) - LINQPad is not just for LINQ queries, but any C#/F#/VB expression, statement block or program.
