@@ -43,6 +43,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [SQL Fiddle](http://sqlfiddle.com/) - Easly test and share database problems and their solutions. Supports multiple different backend DBMS's.
 - [SqlPad](http://rickbergfalk.github.io/sqlpad/) - A web app for running SQL queries and visualizing the results
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases
+- [Sqemo](https://sqemo.com) - ERD tool that generates column names from a shared word list and naming rules. Imports/exports SQL for 7 dialects and DBML; `sqemo-mcp lint` fails CI on naming drift. Free in the browser, no sign-up.
 - [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
 - [Flyway](https://flywaydb.org/) - Database migration tool
 - [Liquibase](http://www.liquibase.org/) - Source Control for your database
