@@ -56,6 +56,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - [ThalamusDB](https://github.com/itrummer/thalamusdb) - SQL with AI operators on text, images, and sound files.
 - [SlowQL](https://github.com/makroumi/slowql) - SQL static analyzer with extensive rules for security, performance, and quality. Zero dependencies, completely offline.
+- [mcdview](https://github.com/Gheop/mcdview) - Generates a standalone, interactive HTML ER diagram from a SQL schema (PostgreSQL, MySQL, SQLite and ~15 dialects) or pgModeler/dbml/Prisma, shareable by link
 
 ## <a name="resources"></a>Resources
 
