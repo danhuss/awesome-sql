@@ -6,6 +6,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [Oracle](#oracle) - Software and packages specifically for Oracle and PL/SQL.
 - [SQL Server](#sqlserver) - Software and packages specifically for SQL Server and T-SQL.
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql) - There is already a whole awesome list just for MySQL.
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) - There is alread a whole awesome list just for PostgreSQL.
 - Cross Platform Stuff
   - [Formatters](#formatter) - Tools and sites that will format your ugly SQL code.
   - [Tools](#tools) - Other cool tools and sites.
@@ -29,21 +30,38 @@ List of tools and techniques for working with relational databases inspired by o
 
 - [SQL Format](http://www.dpriver.com/pp/sqlformat.htm) - Instant SQL Formatter
 - [Poor SQL](http://poorsql.com/) - Instant Free and Open-Source T-SQL Formatting (look here for the plugins and whatnot: https://github.com/TaoK/PoorMansTSqlFormatter )
-- [T-SQL Tidy](http://www.tsqltidy.com/Default.aspx) - Online T-SQL formatting with Webservice and Plugins for SSMS.
+- [ExtendsClass](https://extendsclass.com/sql-formatter.html) - Online SQL formatter
+- [CodeNeat SQL Formatter](https://codeneat.dev/sql-formatter) - Privacy-first online SQL formatter supporting 7 dialects.
 
 ## <a name="tools"></a>Tools
 
+- [sqruff](https://github.com/quarylabs/sqruff) - A SQL linter and formatter written in Rust that supports various SQL dialects and integrates with VSCode through a plugin.
+- [sqlaxe](https://github.com/djberube/sqlaxe) - CLI tool for searching, filtering, formatting, and splitting SQL files. Supports 40+ dialects of SQL.
+- [sql-splitter](https://github.com/HelgeSverre/sql-splitter) - CLI for splitting, merging, converting, and analyzing SQL dump files across MySQL, PostgreSQL, SQLite, and MSSQL.
+- [SQLPage](https://github.com/lovasoa/SQLpage) - Open-source SQL-only website builder
 - [PixQL](https://github.com/Phildo/pixQL) - Command-line image processing tool in SQL by @Phildo
-- [SQL Fiddle](http://sqlfiddle.com/) - Easly test and share database problems and their solutions. Can use different backend DBMS's (MySQL, PostgreSQL, MS SQL Server, Oracle, and SQLite)
+- [SQL Fiddle](http://sqlfiddle.com/) - Easly test and share database problems and their solutions. Supports multiple different backend DBMS's.
 - [SqlPad](http://rickbergfalk.github.io/sqlpad/) - A web app for running SQL queries and visualizing the results
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases
 - [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
 - [Flyway](https://flywaydb.org/) - Database migration tool
 - [Liquibase](http://www.liquibase.org/) - Source Control for your database
+- [Schema Guard RDBM](https://www.dbinvent.com/rdbm/) - Postgres database migration tool, plain-SQL, and declarative definition supported
 - [PgCLI](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [LINQPad](https://www.linqpad.net/) - LINQPad is not just for LINQ queries, but any C#/F#/VB expression, statement block or program.
 - [SchemaSpy](https://github.com/schemaspy/schemaspy) - we will do the best to simplify documentation process of your database
+- [MissionKontrol](https://github.com/Mission-Kontrol/MissionKontrol) - Self-hosted admin panel to manage one or more MySQL/PostGRES databases.
+- [DBeaver](https://dbeaver.io) - Free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases. Supports all popular databases.
+- [EverSQL](https://www.eversql.com/) - SQL query optimization and database observability, powered by AI.
+- [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+- [ThalamusDB](https://github.com/itrummer/thalamusdb) - SQL with AI operators on text, images, and sound files.
+- [SlowQL](https://github.com/makroumi/slowql) - SQL static analyzer with extensive rules for security, performance, and quality. Zero dependencies, completely offline.
+- [mcdview](https://github.com/Gheop/mcdview) - Generates a standalone, interactive HTML ER diagram from a SQL schema (PostgreSQL, MySQL, SQLite and ~15 dialects) or pgModeler/dbml/Prisma, shareable by link
 
 ## <a name="resources"></a>Resources
 
 - [Curated SQL Learning Resources on Hackr.io](https://hackr.io/tutorials/learn-sql) - Programming Community Curated Resources for learning SQL
+- [Basic and advanced concepts of SQL with examples on Scaler](https://www.scaler.com/topics/sql/) - A curated interactive space for aspiring programmers to learn and master their SQL skills.
+- [Mostly Asked SQL Interview Questions and Answers for Freshers](https://boldcoder.blogspot.com/2024/08/fresher-sql-interview-questions.html) - Online coding tutorials and Interview questions.
+- [SQL tips and tricks](https://github.com/ben-nour/SQL-tips-and-tricks) - SQL tips that cover everything from readability to common pitfalls.
+- [SQL Syntax Cheat Sheet](https://github.com/mergisi/sql-syntax-cheat-sheet) - Comprehensive SQL reference including: DDL, DML, JOINs, window functions, CTEs, performance tips, and common mistakes.
