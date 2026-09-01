@@ -32,6 +32,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [Poor SQL](http://poorsql.com/) - Instant Free and Open-Source T-SQL Formatting (look here for the plugins and whatnot: https://github.com/TaoK/PoorMansTSqlFormatter )
 - [ExtendsClass](https://extendsclass.com/sql-formatter.html) - Online SQL formatter
 - [CodeNeat SQL Formatter](https://codeneat.dev/sql-formatter) - Privacy-first online SQL formatter supporting 7 dialects.
+- [maxdop](https://github.com/pagebrooks/maxdop) - Free and open-source T-SQL formatter built on Microsoft's ScriptDom parser. Runs in editors and in CI, and re-parses its own output to check it before writing
 
 ## <a name="tools"></a>Tools
 
