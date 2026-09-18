@@ -64,3 +64,4 @@ List of tools and techniques for working with relational databases inspired by o
 - [Mostly Asked SQL Interview Questions and Answers for Freshers](https://boldcoder.blogspot.com/2024/08/fresher-sql-interview-questions.html) - Online coding tutorials and Interview questions.
 - [SQL tips and tricks](https://github.com/ben-nour/SQL-tips-and-tricks) - SQL tips that cover everything from readability to common pitfalls.
 - [SQL Syntax Cheat Sheet](https://github.com/mergisi/sql-syntax-cheat-sheet) - Comprehensive SQL reference including: DDL, DML, JOINs, window functions, CTEs, performance tips, and common mistakes.
+- [Caso Abierto](https://caso-abierto.christianvadillo.workers.dev) - Detective game where you solve cases by writing SQL queries against real tables. The first case is free in the browser.
