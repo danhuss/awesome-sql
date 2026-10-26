@@ -64,3 +64,4 @@ List of tools and techniques for working with relational databases inspired by o
 - [Mostly Asked SQL Interview Questions and Answers for Freshers](https://boldcoder.blogspot.com/2024/08/fresher-sql-interview-questions.html) - Online coding tutorials and Interview questions.
 - [SQL tips and tricks](https://github.com/ben-nour/SQL-tips-and-tricks) - SQL tips that cover everything from readability to common pitfalls.
 - [SQL Syntax Cheat Sheet](https://github.com/mergisi/sql-syntax-cheat-sheet) - Comprehensive SQL reference including: DDL, DML, JOINs, window functions, CTEs, performance tips, and common mistakes.
+- [SQL Cheat Sheet (CheatGrid)](https://www.cheatgrid.com/databases/0293-sql-cheat-sheet) - Free SQL reference covering query execution order, joins, NULL handling, CTEs and window functions, with a free practice test.
