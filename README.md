@@ -56,6 +56,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - [ThalamusDB](https://github.com/itrummer/thalamusdb) - SQL with AI operators on text, images, and sound files.
 - [SlowQL](https://github.com/makroumi/slowql) - SQL static analyzer with extensive rules for security, performance, and quality. Zero dependencies, completely offline.
+- [Seqora](https://seqora.dev/) - Desktop SQL client for PostgreSQL, MySQL, MariaDB and SQLite on macOS and Windows. Grid edits are staged and shown as SQL before they run, with an ER diagram and visual EXPLAIN. Free plan, paid Pro.
 
 ## <a name="resources"></a>Resources
 
